@@ -30,7 +30,7 @@ Agora que está tudo pronto, vamos compilar o código. O projeto possui dois arq
 gcc -o semaforo_threads semaforo_binario_counter.c -pthread
 ```
 ```bash
-gcc -o semaforo_processos semaforo_binario.c -pthread
+gcc -o semaforo_processos semaforo_binario.c
 ```
 
 ### Executar o Código
